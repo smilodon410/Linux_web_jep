@@ -6,11 +6,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
@@ -25,5 +20,10 @@
 	<classpathentry kind="lib" path="C:/Python/Python38/Lib/site-packages/jep/jep-3.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/BIT_R45/Downloads/BIT.GG-master/WebContent/WEB-INF/lib/mongo-java-driver-3.12.7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/BIT_R45/Downloads/BIT.GG-master/WebContent/WEB-INF/lib/mongodb-driver-3.12.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
